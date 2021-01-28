@@ -19,7 +19,7 @@ def figures(number):
     LIGHT_CYAN = "\033[2;36;47m"
     Reset = '\u001b[0m'
 
-    #__________ Arithmetic nomenclature __________
+    #__________ Arithmetic Nomenclature __________
 
     once = ('One', 'Two', 'Three', 'Four', 'Five', 'Six', 'Seven', 'Eight', 'Nine')
     eleven_19 = ('Eleven', 'Twelve', 'Thirteen', 'Fourteen', 'Fifteen', 'Sixteen', 'Seventeen', 'Eighteen', 'Nineteen')
